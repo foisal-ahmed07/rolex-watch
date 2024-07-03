@@ -23,7 +23,9 @@ body{
     background-size: cover;
     height: 2000px;
     width: 2000px;
-    margin: 0px;
+    margin-top: 20px;
+
+    margin-left: 0px;
     padding: 10px;
 }
 
@@ -31,4 +33,9 @@ body{
 .history{
     background-color: darkgray;
     font-size: larger;
+}
+
+.color{
+    background-color: rgb(225, 227, 230);
+    padding: 20px;
 }
